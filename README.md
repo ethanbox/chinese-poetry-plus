@@ -31,4 +31,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ethanbox/chinese-poetry-plus&type=Date)](https://www.star-history.com/#ethanbox/chinese-poetry-plus&Date)
+[![Star History Chart](https://starchart.cc/ethanbox/chinese-poetry-plus.svg)](https://starchart.cc/ethanbox/chinese-poetry-plus)
