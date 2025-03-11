@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./public/images/logo.png" alt="logo" style="height: 200px; width:200px;"/>
+    <img src="./public/images/logo.jpeg" alt="logo" style="height: 200px; width:200px;"/>
 </p>
 
 <h1 align="center">《中文诗词 Plus 版》</h1>
