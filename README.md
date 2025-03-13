@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./public/images/logo.png" alt="logo" style="height: 200px; width:200px;"/>
+    <img src="./public/images/logo.png" alt="logo" style="height: 150px; width:150px;"/>
 </p>
 
 <h1 align="center">《中文诗词 Plus 版》</h1>
@@ -22,12 +22,9 @@
 
 ## 贡献者
 
-<div align="center">
-    <a href="https://github.com/ethanbox/chinese-poetry-plus/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=ethanbox/chinese-poetry-plus" />
-    </a>
-</div>
-
+<a href="https://github.com/ethanbox/chinese-poetry-plus/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ethanbox/chinese-poetry-plus" />
+</a>
 
 ## Star History
 
